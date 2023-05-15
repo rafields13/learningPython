@@ -2,7 +2,7 @@
 
 from pygame import mixer, event
 pygame.init()
-mixer.music.load('arquivoMp3Qualquer)
+mixer.music.load('arquivoMp3Qualquer')
 mixer.music.play()
 event.wait
 
